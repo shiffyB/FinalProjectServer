@@ -1,0 +1,9 @@
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\76599\Documents\programming\פרויקט גמר\FinalProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
